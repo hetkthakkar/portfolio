@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+:root {
+  /* Always use dark mode colors regardless of user preference */
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: system-ui, -apple-system, sans-serif;
+  --font-mono: ui-monospace, monospace;
+  color-scheme: dark !important;
+  forced-color-adjust: none;
+}
+
+/* Force dark mode even if prefers-color-scheme is light */
+@media (prefers-color-scheme: light) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    color-scheme: dark !important;
+  }
+}
+
+/* Removed media query for dark mode since we always want dark mode */
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+/* Remove browser extension styling */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #d1d5db;
+  transition: background-color 5000s ease-in-out 0s;
+  box-shadow: inset 0 0 20px 20px #1a1a1a;
+}
+
+/* Remove browser validation styling */
+input:autofill,
+input:autofill:hover,
+input:autofill:focus,
+input:autofill:active {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #d1d5db;
+  transition: background-color 5000s ease-in-out 0s;
+  box-shadow: inset 0 0 20px 20px #1a1a1a;
+}
+
+/* Remove browser extension icons */
+input::-ms-clear,
+input::-ms-reveal,
+input::-webkit-contacts-auto-fill-button,
+input::-webkit-credentials-auto-fill-button {
+  display: none !important;
+}
+
+/* Force custom styling */
+input.appearance-none {
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  appearance: none !important;
+  background-image: none !important;
+}

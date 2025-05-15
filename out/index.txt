@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:I[7280,["989","static/chunks/989-745da38e2c02561a.js","177","static/chunks/app/layout-ffad1e8345423dce.js"],"ThemeProvider"]
+3:I[8375,["989","static/chunks/989-745da38e2c02561a.js","177","static/chunks/app/layout-ffad1e8345423dce.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[4615,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+7:I[3504,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+8:I[447,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+9:I[5226,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+a:I[1815,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+b:I[5418,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+c:I[416,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+d:I[7746,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+e:I[8125,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+f:I[4820,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+10:I[6658,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+11:I[5544,["989","static/chunks/989-745da38e2c02561a.js","384","static/chunks/384-7b68909f9a9b1803.js","974","static/chunks/app/page-19ca6064119feef4.js"],"default"]
+12:I[9665,[],"MetadataBoundary"]
+14:I[9665,[],"OutletBoundary"]
+17:I[4911,[],"AsyncMetadataOutlet"]
+19:I[9665,[],"ViewportBoundary"]
+1b:I[6614,[],""]
+:HL["/_next/static/css/453413cff5406248.css","style"]
+0:{"P":null,"b":"nXSsOn8rbwb8rN69Bs-1U","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/453413cff5406248.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 antialiased bg-gray-900 text-gray-100","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[[["$","$L6",null,{}],["$","main",null,{"className":"min-h-screen","children":[["$","section",null,{"id":"home","children":["$","$L7",null,{}]}],["$","section",null,{"id":"about","children":["$","$L8",null,{}]}],["$","section",null,{"id":"education","children":["$","$L9",null,{}]}],["$","section",null,{"id":"showcase","children":["$","$La",null,{}]}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","section",null,{"id":"contact","children":["$","$L11",null,{}]}]]}]],["$","$L12",null,{"children":"$L13"}],null,["$","$L14",null,{"children":["$L15","$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","kEWb3aodpjNexFYE7VtN_",{"children":[["$","$L19",null,{"children":"$L1a"}],null]}],null]}],false]],"m":"$undefined","G":["$1b","$undefined"],"s":false,"S":true}
+1c:"$Sreact.suspense"
+1d:I[4911,[],"AsyncMetadata"]
+13:["$","$1c",null,{"fallback":null,"children":["$","$L1d",null,{"promise":"$@1e"}]}]
+16:null
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:null
+1e:{"metadata":[["$","title","0",{"children":"Het Thakkar - Portfolio"}],["$","meta","1",{"name":"description","content":"Portfolio website showcasing my projects, skills, and experience as a Full Stack Developer"}],["$","meta","2",{"name":"keywords","content":"portfolio,full stack developer,web development,react,nextjs"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+18:{"metadata":"$1e:metadata","error":null,"digest":"$undefined"}
